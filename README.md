@@ -1,4 +1,4 @@
-- 📫 How to reach me jordonpeters3@gmail.com
+- 📫 Contact: jordonpeters3@gmail.com
 
 <!---
 jordonp71/jordonp71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
